@@ -1,4 +1,4 @@
-# TunisAir-Stock-Scrapping-and-Prediction
+# TunisAir-Stock-Scrapping-and-Predicting
 
 Ongoing...
 
